@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SepanjInnTest
+comment0.text=\r\n\ The\ test\ class\ JupiterInnTest.\r\n\ tests\ class\ JupiterInn\r\n\r\nJupiterInn\r\n\ Team\ Jupiter\ Group\ Project\r\n\ @authors\ (Amanjit\ Somal,\ Anjali\ Raveendran,\ Nabaa\ Al-Alawi,\ Farzaneh\ Javid)\r\n\ @version\ 1.00\ 2018/03/22\r\n
+comment1.params=
+comment1.target=SepanjInnTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ JupiterInnTest\r\n\ used\ to\ test\ JupiterInn\ Class\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testSwitchPanel()
+comment5.params=
+comment5.target=void\ testBackButton()
+comment6.params=
+comment6.target=void\ testForwardButton()
+numComments=7

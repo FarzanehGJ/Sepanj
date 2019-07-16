@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=InitialPanel
+comment0.text=\r\n\ The\ main\ menu\ panel.\r\n\ \r\n\ Sepanj\r\n\ Team\ Sepanj\ Group\ Project\r\n\ @authors\ Sepanj\ Group\r\n\ @version\ (01/03/2019)FSepanj\r\n
+comment1.params=
+comment1.target=InitialPanel()
+comment1.text=\r\n\ Constructs\ the\ initial\ welcome\ panel.\r\n\ \r\n
+comment2.params=panel
+comment2.target=void\ creatTitle(javax.swing.JPanel)
+comment2.text=\r\n\ create\ title\ for\ panel\r\n\ @param\ panel\ the\ panel\ in\ question\r\n
+comment3.params=panel
+comment3.target=void\ makeInfoLabel(javax.swing.JPanel)
+comment3.text=\r\n\ create\ label\ which\ contains\ information\ about\ program\r\n\ @param\ panel\ the\ panel\ which\ this\ info\ will\ be\ added\ to\r\n
+comment4.params=panel
+comment4.target=void\ makeGetStartedButton(javax.swing.JPanel)
+comment4.text=\r\n\ creates\ a\ JLabel\ that\ looks\ like\ a\ button\ on\ screen\r\n
+comment5.params=label\ size
+comment5.target=void\ setLabelFont(javax.swing.JLabel,\ float)
+comment5.text=\r\n\ sets\ the\ font\ of\ a\ JLabel\r\n\ @label\ the\ label\ to\ be\ changed\r\n\ @size\ how\ big\ you\ want\ the\ font\ to\ be\r\n
+numComments=6

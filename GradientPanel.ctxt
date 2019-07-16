@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradientPanel
+comment0.text=\r\n\ this\ panel\ overrides\ a\ method\ in\ JPanel\ so\ that\ we\ are\ able\ to\ create\r\n\ panels\ with\ a\ gradient\r\n\ \r\n\ Sepanj\r\n\ Team\ Sepanj\ Group\ Project\r\n\ @authors\ Sepanj\ Group\r\n\ @version\ (01/03/2019)FSepanj\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+numComments=2

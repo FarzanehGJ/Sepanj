@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=RegisterPanel
+comment0.text=\r\n\ @authors\ Sepanj\ Group\r\n\ @version\ (01/03/2019)FSepanj\r\n
+comment1.params=
+comment1.target=RegisterPanel()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=useranem\ password
+comment3.target=void\ actionRegister(javax.swing.JTextField,\ javax.swing.JPasswordField)
+comment4.params=username\ password\ firstname\ lastname\ emailadd\ phonenumber
+comment4.target=void\ AddNewUser(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=searchStr1
+comment5.target=boolean\ CheckforDup(java.lang.String)
+comment6.params=searchStr1\ searchStr2
+comment6.target=boolean\ parseFile(java.lang.String,\ java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

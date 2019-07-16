@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LoginForm
+comment0.text=\r\n\ @authors\ Sepanj\ Group\r\n\ @version\ (01/03/2019)FSepanj\r\n
+comment1.params=
+comment1.target=LoginForm()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ actionRegister()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=tf1\ p1
+comment5.target=void\ checkUserPass(javax.swing.JTextField,\ javax.swing.JPasswordField)
+comment6.params=searchStr1\ searchStr2
+comment6.target=boolean\ check(java.lang.String,\ java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
